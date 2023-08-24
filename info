@@ -1,6 +1,73 @@
 git init
 git add .
 git commit -m "first commit"
-git branch -M master
+git branch -M main
 git remote add origin https://github.com/jicsoninfo/chat_app_inreact.git
-git push -u origin master
+git push -u origin main
+
+
+
+…or create a new repository on the command line
+echo "# chat_app_inreact" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jicsoninfo/chat_app_inreact.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/jicsoninfo/chat_app_inreact.git
+git branch -M main
+git push -u origin main
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+
+Linux commands
+sudo update-alternatives --set php /usr/bin/php8.2
+sudo update-alternatives --set php /usr/bin/php7.4
+sudo a2dismod php7.4
+sudo a2enmod php8.2
+
+sudo service apache2 restart
+
+
+
+root@user-desktop:/usr/bin# exit
+
+exit
+
+user@user-desktop:~$ sudo update-alternatives --set php /usr/bin/php
+php            php7.2         php7.4         php8.1         php8.2         php-config     php-config8.1  phpize         phpize8.1      
+
+user@user-desktop:~$ sudo update-alternatives --set php /usr/bin/php8.2 
+
+update-alternatives: using /usr/bin/php8.2 to provide /usr/bin/php (php) in manual mode
+
+user@user-desktop:~$ sudo service apache2 restart
+
+user@user-desktop:~$ sudo a2enmod php
+php7.4  php8.1  php8.2  
+
+user@user-desktop:~$ sudo a2enmod php
+php7.4  php8.1  php8.2  
+
+user@user-desktop:~$ sudo a2enmod php8.
+php8.1  php8.2  
+
+user@user-desktop:~$ sudo a2enmod php8.2
+
+user@user-desktop:~$ sudo service apache2 restart
+user@user-desktop:~$ php -v
+user@user-desktop:~$ cd /var/www/html/
+user@user-desktop:/var/www/html$ ls
+user@user-desktop:/var/www/html$ touch index.php
+user@user-desktop:/var/www/html$ sudo chmod 777 index.php 
+user@user-desktop:/var/www/html$ vi index.php 
+user@user-desktop:/var/www/html$ sudo vi /etc/php/8.1/apache2/php.ini
+user@user-desktop:/var/www/html$ sudo service apache2 restart
+
+
+composer create-project laravel/laravel .
+composer create-project laravel/laravel 02test1
