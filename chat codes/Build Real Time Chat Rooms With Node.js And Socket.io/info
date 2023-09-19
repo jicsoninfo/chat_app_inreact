@@ -1,0 +1,121 @@
+https://youtu.be/UymGJnv-WsE?si=w6O5pmvtcBU1jTZ5
+Build Real Time Chat Rooms With Node.js And Socket.io
+
+Web Dev Simplified
+1.4M subscribers
+
+Subscribe
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+.
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ 
+ 
+K
+ 
+
+
+Share
+
+Download
+
+Save
+
+105,795 views  1 Jun 2019  Small Projects
+In this video you will be expanding on a real time chat application by adding room support. You will use Socket.io to manage real time web socket connections to a Node.js server that will allow you to communicate real time chat messages to all clients connected to a single server.
+
+Upon completing this project you will have a fully functioning chat application with room support. This project will also give you the basic groundwork needed to build complex chat applications such as Slack and Discord.
+
+🚨 IMPORTANT:
+Part One:   
+
+ • Build a Real Time Chat App With Node....  
+
+
+📚 Materials/References:
+
+Starting GitHub Code: https://github.com/WebDevSimplified/R...
+Final GitHub Code: https://github.com/WebDevSimplified/R...
+Socket.io: https://socket.io
+Top 8 JavaScript Array Methods:   
+
+ • 8 Must Know JavaScript Array Methods  
+
+
+🧠 Concepts Covered:
+
+- Using Socket.io to create web sockets
+- How to send messages to clients in real time
+-  Handling chat room segregation
+- Appending elements with JavaScript
+- Sending messages to the server in real time
+
+
+🌎 Find Me Here:
+
+Twitter: https://twitter.com/DevSimplified
+Discord: https://discord.gg/7StTjnR
+GitHub: https://github.com/WebDevSimplified
+CodePen: https://codepen.io/WebDevSimplified
+
