@@ -5,5 +5,7 @@
 /03Chat_App/socket/node_modules
 /04Chat_App/node_modules
 /05Chat_App/node_modules
+/06Chat_App/client/node_modules
+/06Chat_App/server/node_modules
 
 
