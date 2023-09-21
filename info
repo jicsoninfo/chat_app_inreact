@@ -25,6 +25,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 
 Linux commands
+sudo service mongod start // to start mongodb service
 sudo update-alternatives --set php /usr/bin/php8.2
 sudo update-alternatives --set php /usr/bin/php7.4
 sudo a2dismod php7.4
